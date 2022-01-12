@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AWSLambdaDeployerStateService">
+    <option name="flags">
+      <Flags>
+        <option name="flyway" value="1" />
+        <option name="init" value="1" />
+      </Flags>
+    </option>
+    <option name="profiledState">
+      <map>
+        <entry key="">
+          <value>
+            <ProfiledState>
+              <option name="profileName" value="" />
+            </ProfiledState>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
